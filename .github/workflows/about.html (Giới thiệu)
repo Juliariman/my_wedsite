@@ -1,28 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Giới Thiệu - RIMAN</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <nav>
-        <ul>
-            <li><a href="index.html">Trang Chính</a></li>
-            <li><a href="about.html">Giới Thiệu</a></li>
-            <li><a href="products.html">Sản Phẩm</a></li>
-            <li><a href="contact.html">Liên Hệ</a></li>
-        </ul>
-    </nav>
-    <div class="content">
-        <div id="about" class="section">
-            <h2>Giới Thiệu Về RIMAN & Ngọc Bích</h2>
-            <p>RIMAN được thành lập vào năm 2005 tại Hàn Quốc với sứ mệnh cung cấp các sản phẩm chăm sóc sắc đẹp và sức khỏe chất lượng cao nhất. Chúng tôi đã nhanh chóng khẳng định được vị thế của mình trên thị trường quốc tế với các sản phẩm nổi bật như INCELLDERM, botalab, và Lifening.</p>
-            <p>RIMAN không chỉ là một thương hiệu mỹ phẩm hàng đầu mà còn là cơ hội tuyệt vời cho những ai muốn tham gia vào hệ thống kinh doanh mỹ phẩm và kiếm thêm thu nhập. Chúng tôi cung cấp các sản phẩm chất lượng cao, được chiết xuất hoàn toàn từ thiên nhiên và được chứng nhận bởi người tiêu dùng toàn cầu.
-            <p>Tôi là Ngọc Bích (Julia Pham)là người đồng hành và hợp tác với RIMAN, giúp bạn khám phá các sản phẩm tuyệt vời của công ty và hỗ trợ bạn trong việc bắt đầu hành trình làm tiếp thị liên kết. Với sự hỗ trợ tận tình và các cơ hội phát triển, Ngọc Bích cam kết giúp bạn đạt được thành công trong việc kinh doanh và chăm sóc sắc đẹp.</p>
-        </div>
-    </div>
-    <script src="scripts.js"></script>
-</body>
-</html>
+Lịch Sử Hình Thành và Phát Triển Công Ty RIMAN
+
+RIMAN được thành lập vào năm 2005 tại Hàn Quốc với sứ mệnh cung cấp các sản phẩm chăm sóc sắc đẹp và sức khỏe chất lượng cao nhất cho khách hàng. Với đội ngũ sáng lập giàu kinh nghiệm và đam mê trong lĩnh vực làm đẹp, RIMAN đã nhanh chóng khẳng định được vị thế của mình trên thị trường nội địa và quốc tế.
+
+Giai đoạn 2005 - 2010: Những năm đầu, RIMAN tập trung vào việc nghiên cứu và phát triển các sản phẩm chăm sóc da, chú trọng vào việc sử dụng các thành phần tự nhiên và công nghệ tiên tiến. Trong giai đoạn này, công ty đã ra mắt các sản phẩm đầu tiên và nhận được sự chào đón nồng nhiệt từ thị trường Hàn Quốc.
+
+Giai đoạn 2010 - 2015: RIMAN mở rộng hoạt động ra quốc tế, bắt đầu với việc xuất khẩu sản phẩm đến các thị trường châu Á như Nhật Bản và Trung Quốc. Công ty tiếp tục đầu tư vào nghiên cứu và phát triển để cải tiến chất lượng sản phẩm và đáp ứng nhu cầu ngày càng cao của khách hàng. Sự phát triển này đã giúp RIMAN xây dựng một mạng lưới phân phối rộng rãi và tăng cường sự hiện diện toàn cầu.
+
+Giai đoạn 2015 - 2020: RIMAN không ngừng đổi mới và mở rộng danh mục sản phẩm, bao gồm các sản phẩm chăm sóc tóc, cơ thể và bổ sung dinh dưỡng. Công ty bắt đầu áp dụng các công nghệ tiên tiến như công nghệ LIPOSOME trong sản phẩm INCELLDERM, mang đến hiệu quả chăm sóc da vượt trội. Sự phát triển này đã củng cố vị thế của RIMAN như một trong những thương hiệu mỹ phẩm hàng đầu trên thị trường quốc tế.
+
+Từ 2020 đến nay: RIMAN tiếp tục mở rộng thị trường toàn cầu với sự hiện diện mạnh mẽ ở Mỹ, Canada, Đài Loan, Hồng Kông và nhiều quốc gia khác. Công ty hiện đang tập trung vào việc mở rộng cơ hội kinh doanh qua các chương trình tiếp thị liên kết và cung cấp hỗ trợ đào tạo cho đối tác bán hàng. RIMAN cam kết duy trì chất lượng sản phẩm và dịch vụ khách hàng hàng đầu, đồng thời tiếp tục nghiên cứu và phát triển để đáp ứng nhu cầu ngày càng đa dạng của khách hàng trên toàn thế giới.
+
+Với tầm nhìn dài hạn và cam kết không ngừng nghỉ, RIMAN tiếp tục khẳng định mình là một biểu tượng của sự đổi mới và chất lượng trong ngành mỹ phẩm toàn cầu.
