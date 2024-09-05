@@ -1,0 +1,33 @@
+<!-- Sản Phẩm -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sản Phẩm - RIMAN</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section id="products">
+        <h1>Sản Phẩm của RIMAN</h1>
+        
+        <div class="product">
+            <h2>INCELLDERM</h2>
+            <p>Công nghệ LIPOSOME giúp các thành phần dinh dưỡng đi sâu vào lớp hạ bì của da. Đánh bay da khô, nhờn, nhăn nheo và mang lại làn da trắng sáng mịn màng.</p>
+            <img src="images/incellderm.jpg" alt="INCELLDERM">
+        </div>
+        
+        <div class="product">
+            <h2>botalab</h2>
+            <p>Dầu gội và sản phẩm dưỡng tóc giúp tóc mọc dày và khỏe. Sữa tắm botalab giúp nuôi dưỡng làn da cơ thể mịn màng và trắng sáng.</p>
+            <img src="images/botalab.jpg" alt="botalab">
+        </div>
+        
+        <div class="product">
+            <h2>Lifening</h2>
+            <p>Collagen ampoule bổ sung làm đẹp, hỗ trợ xương và giúp ngủ ngon. Cùng với Deep Talk Plus hỗ trợ hệ miễn dịch và sức khỏe đường ruột.</p>
+            <img src="images/lifening.jpg" alt="Lifening">
+        </div>
+    </section>
+</body>
+</html>
